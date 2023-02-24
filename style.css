@@ -1,0 +1,14 @@
+body{
+background: url("Ymx59h.png");
+background-size:cover ;
+background-repeat:no-repeat;
+background-position: center;
+
+}
+
+#camera{
+    height: 450px;
+    width: 450px;
+    border-color: black;
+    border-style: solid;
+}
